@@ -2,11 +2,11 @@
 <img src="https://komarev.com/ghpvc/?username=gobikannans&label=Profile%20views&color=0e75b6&style=flat" alt="gobikannans" align="center" ml="20px" />
 </p>
 
-Hi, I am Gobi Kannan, a passionate Full stack developer and software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces and smoothful user experiences. I take great care in the knowledge, experience and quality in the code things that I built. 
+Hi, I'm Gobi Kannan, a passionate Full stack developer and software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces and smoothful user experiences. I take great care in the knowledge, experience and quality in the code things that I built. 
 
 I am a open source enthuasist. I learned a lot from the open source community and love the ideas of knowledge shared through open source.
 
-<img src="https://res.cloudinary.com/dpjowvn70/image/upload/v1674413418/giphy_vcdilm.webp" height="280" width="380"  alt="gif" align="right"/>
+<img src="https://res.cloudinary.com/dpjowvn70/image/upload/v1674413418/giphy_vcdilm.webp" width="200"  alt="gif" align="right"/>
 
 
 - 💼 any work? do reach, **gobikannan.s1820@gmail.com** :)
@@ -30,7 +30,7 @@ I am a open source enthuasist. I learned a lot from the open source community an
 
 
 **My Github stats:**
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gobikannans&show_icons=true&locale=en" alt="gobikannans" width="300" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gobikannans&show_icons=true&locale=en" alt="gobikannans"/></p>
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gobikannans&" alt="gobikannans" /></p> 
 
