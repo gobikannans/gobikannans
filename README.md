@@ -30,7 +30,7 @@ I am a open source enthuasist. I learned a lot from the open source community an
 
 
 **My Github stats:**
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gobikannans&show_icons=true&locale=en" alt="gobikannans" width="500" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gobikannans&show_icons=true&locale=en" alt="gobikannans" width="300" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gobikannans&" alt="gobikannans" /></p> 
 
