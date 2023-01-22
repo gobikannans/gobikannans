@@ -2,13 +2,12 @@
 <img src="https://komarev.com/ghpvc/?username=gobikannans&label=Profile%20views&color=0e75b6&style=flat" alt="gobikannans" align="center" ml="20px" />
 </p>
 
-Hi, Iam Gobi Kannan, a passionate Full stack developer and software engineer from India. My passion for coding comes from builting ideas that creates elegant interface and smoothful user experiences.I took great care in the knowledge, experience and quality in the code things that I built. 
+Hi, I am Gobi Kannan, a passionate Full stack developer and software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces and smoothful user experiences. I take great care in the knowledge, experience and quality in the code things that I built. 
 
 I am a open source enthuasist.I learned a lot from the open source community and love the ideas of knowledge shared through open source.
 
-- 💼 any work? do reach, [email](mailto:gobikannan1818@gmail.com) :)
+- 💼 any work? do reach, **gobikannan.s1820@gmail.com** :)
 - 💬 ask me about anything, i am happy to help;
-
 
 **languages and tools:**
 
