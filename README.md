@@ -8,6 +8,9 @@ I am a open source enthuasist. I learned a lot from the open source community an
 
 - 💼 any work? do reach, **gobikannan.s1820@gmail.com** :)
 - 💬 ask me about anything, i am happy to help;
+- 
+<img src="https://res.cloudinary.com/dpjowvn70/image/upload/v1674413418/giphy_vcdilm.webp"  alt="gif" align="right"/>
+
 
 **languages and tools:**
 
@@ -25,12 +28,12 @@ I am a open source enthuasist. I learned a lot from the open source community an
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"  width="30" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> </p>
 
-<img src="https://res.cloudinary.com/dpjowvn70/image/upload/v1674413418/giphy_vcdilm.webp" height="500" width="320" alt="gif" align="right"/>
 
 **My Github stats:**
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gobikannans&show_icons=true&locale=en" alt="gobikannans" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gobikannans&show_icons=true&locale=en" alt="gobikannans" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gobikannans&" alt="gobikannans" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gobikannans&" alt="gobikannans" /></p> <br />
+
 
 **Connect with me:**
 <p align="left">
