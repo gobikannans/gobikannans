@@ -6,11 +6,11 @@ Hi, I am Gobi Kannan, a passionate Full stack developer and software engineer fr
 
 I am a open source enthuasist. I learned a lot from the open source community and love the ideas of knowledge shared through open source.
 
-- 💼 any work? do reach, **gobikannan.s1820@gmail.com** :)
-- 💬 ask me about anything, i am happy to help;
-- 
 <img src="https://res.cloudinary.com/dpjowvn70/image/upload/v1674413418/giphy_vcdilm.webp" height="280" width="380"  alt="gif" align="right"/>
 
+
+- 💼 any work? do reach, **gobikannan.s1820@gmail.com** :)
+- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**
 
