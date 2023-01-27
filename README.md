@@ -4,8 +4,6 @@
 
 Hi, I'm Gobi Kannan, a passionate Full stack developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces and smoothful user experiences. I take great care in the knowledge, experience and quality in the code things that I built. 
 
-I am a open source enthuasist. I learned a lot from the open source community and love the ideas of knowledge shared through open source.
-
 <img src="https://res.cloudinary.com/dpjowvn70/image/upload/v1674413418/giphy_vcdilm.webp" width="330"  alt="gif" align="right"/>
 
 - 💼 any work? do reach, **gobikannan.s1820@gmail.com** :)
