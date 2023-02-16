@@ -7,7 +7,6 @@ Hi, I'm Gobi Kannan, a passionate Full stack developer from India. My passion fo
 <img src="https://res.cloudinary.com/dpjowvn70/image/upload/v1674413418/giphy_vcdilm.webp" width="330"  alt="gif" align="right"/>
 
 - 💼 any work? do reach, **gobikannan.s1820@gmail.com** :)
-- 💬 ask me about anything, i am happy to help;
 
 **Languages and tools:**
 
